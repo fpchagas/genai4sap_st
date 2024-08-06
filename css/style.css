@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Google+Sans:wght@400;500;700'); 
+
+html, body, [class*="css"] {
+    font-family: "Google Sans", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    color: #174ea6;
+}
+.st-emotion-cache-1c7y2kd {
+    flex-direction: row-reverse;
+    text-align: right;
+    background: #174ea6 / 0.5;
+}
+.fullScreenFrame > div {
+    display: flex;
+    justify-content: center;    
+}
+div [data-testid=stImage]{
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+.st-emotion-cache-zr3bk4 {
+    font-family: "Google Sans", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    color: #773975;
+    }
